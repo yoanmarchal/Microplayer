@@ -19,7 +19,7 @@
     "grunt-rev": "~0.1.0",
     "grunt-usemin": "~2.4.0",
     "grunt-mocha": "~0.4.11",
-    "grunt-svgmin": "1.0.0",
+    "grunt-svgmin": "5.0.0",
     "grunt-concurrent": "~1.0.0",
     "load-grunt-tasks": "~0.6.0",
     "matchdep": "~0.3.0",
